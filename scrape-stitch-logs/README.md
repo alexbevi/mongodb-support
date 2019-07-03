@@ -6,7 +6,7 @@ The output of this script is a CSV file.
 
 ## Setup
 
-First navigate to your Application's logs page (ex: `https://stitch.mongodb.com/groups/{groupid|/apps/{appid}/logs`).
+First navigate to your Application's logs page (ex: `https://stitch.mongodb.com/groups/{groupid}/apps/{appid}/logs`).
 
 Next open a [developer console](https://support.airtable.com/hc/en-us/articles/232313848-How-to-open-the-developer-console) for your browser of choice.
 
